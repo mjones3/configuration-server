@@ -23,7 +23,7 @@ spring:
         encrypt.enabled: false
         git:
           uri: https://github.com/mjones3/pj-config-repo/
-          searchPaths: registrationservice,zuulservice,authenticationservice,specialroutesservice
+          searchPaths: registrationservice,zuulservice,authenticationservice,specialroutesservice,organizationservice,userservice
           username: mjones3
           password: mackdad1
 
